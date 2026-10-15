@@ -1,0 +1,40 @@
+ticker,secteur
+AAPL,Technologie
+MSFT,Technologie
+NVDA,Technologie
+ORCL,Technologie
+CSCO,Technologie
+ADBE,Technologie
+GOOGL,Communication
+META,Communication
+DIS,Communication
+VZ,Communication
+AMZN,Consommation cyclique
+HD,Consommation cyclique
+MCD,Consommation cyclique
+NKE,Consommation cyclique
+PG,Consommation de base
+KO,Consommation de base
+PEP,Consommation de base
+WMT,Consommation de base
+COST,Consommation de base
+JNJ,Santé
+UNH,Santé
+PFE,Santé
+MRK,Santé
+ABT,Santé
+JPM,Finance
+BAC,Finance
+GS,Finance
+V,Finance
+BRK-B,Finance
+XOM,Énergie
+CVX,Énergie
+CAT,Industrie
+HON,Industrie
+UNP,Industrie
+BA,Industrie
+NEE,Services publics
+DUK,Services publics
+SHW,Matériaux
+AMT,Immobilier
